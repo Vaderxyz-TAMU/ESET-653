@@ -1,7 +1,7 @@
 import pyvisa
 
 class VisaManager:
-    def __init__(self, backend='@py'):
+    def __init__(self, backend=''):
         self.rm = pyvisa.ResourceManager(backend)
 
     def list_resources(self):
