@@ -1,2 +1,0 @@
-# ESET-653
-ESET-653 Code
